@@ -1,18 +1,4 @@
-## LogAnalysisDashboard <img width=220 height=152 align=right src="https://github.com/FabioLucenaRibas/log-analysis-dashboard/blob/main/doc/tela.png" />
-
-<p align="left">
-    <a href="">
-    <img src="https://img.shields.io/badge/PRs-Bem--Vindos-brightgreen" alt="PRs Bem-Vindos!" />
-  </a>
-  <a href="https://github.com/FabioLucenaRibas/log-analysis-dashboard/actions/workflows/build-deploy.yml">
-    <img src="https://github.com/FabioLucenaRibas/log-analysis-dashboard/actions/workflows/build-deploy.yml/badge.svg?branch=main" alt="Build & Deploy" />
-  </a>
-    <a href="https://github.com/FabioLucenaRibas/log-analysis-dashboard/actions/workflows/build-release-electron.yml">
-    <img src="https://github.com/FabioLucenaRibas/log-analysis-dashboard/actions/workflows/build-release-electron.yml/badge.svg" alt="Build Electron Win Linux MacOS" />
-  </a>
-</p>
-
-# Indice
+## LogAnalysisDashboard  <img width=220 height=152 align=right src="https://github.com/FabioLucenaRibas/log-analysis-dashboard-io/blob/main/doc/tela.png" />
 
 - [Sobre](#-sobre)
 - [Recursos](#-recursos)
@@ -26,7 +12,7 @@ Acesse agora através do link: https://fabiolucenaribas.github.io/log-analysis-d
 
 ou
 
-Baixe o executável para sua plataforma Windows, Linux ou MacOS: [Aqui!](https://github.com/FabioLucenaRibas/log-analysis-dashboard/releases/latest)
+Baixe o executável para sua plataforma Windows, Linux ou MacOS: [Aqui!](https://github.com/FabioLucenaRibas/log-analysis-dashboard-io/releases/latest)
 
 ## ✨ Recursos
 
@@ -41,15 +27,15 @@ Baixe o executável para sua plataforma Windows, Linux ou MacOS: [Aqui!](https:/
 
 <p align="center">
     <a href="https://www.electronjs.org/">
-    <img src="https://github.com/FabioLucenaRibas/log-analysis-dashboard/blob/main/doc/electron.png" alt="Electron" />
+    <img src="https://github.com/FabioLucenaRibas/log-analysis-dashboard-io/blob/main/doc/electron.png" alt="Electron" />
   </a>
   <a href="https://angular.io/">
-    <img src="https://github.com/FabioLucenaRibas/log-analysis-dashboard/blob/main/doc/angular.png" alt="Angular" />
+    <img src="https://github.com/FabioLucenaRibas/log-analysis-dashboard-io/blob/main/doc/angular.png" alt="Angular" />
   </a>
     <a href="https://primeng.org/">
-    <img src="https://github.com/FabioLucenaRibas/log-analysis-dashboard/blob/main/doc/primeng.png" alt="PrimeNg" />
+    <img src="https://github.com/FabioLucenaRibas/log-analysis-dashboard-io/blob/main/doc/primeng.png" alt="PrimeNg" />
   </a>
   <a href="https://www.typescriptlang.org/">
-    <img src="https://github.com/FabioLucenaRibas/log-analysis-dashboard/blob/main/doc/typescript.png" alt="TypeScript" />
+    <img src="https://github.com/FabioLucenaRibas/log-analysis-dashboard-io/blob/main/doc/typescript.png" alt="TypeScript" />
   </a>
 </p>
