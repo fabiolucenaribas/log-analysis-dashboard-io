@@ -55,5 +55,11 @@
       "type": "image/png",
       "purpose": "maskable any"
     }
+  ],
+  "description": "Facilitar, agilizar e otimizar o processo de análise de LOG das informações necessárias para resolução de problemas.",
+  "id": "log-analysis-dashboard",
+  "lang": "pt-BR",
+  "categories": [
+    "productivity"
   ]
 }

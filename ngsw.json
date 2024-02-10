@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1705529145603,
+  "timestamp": 1707589064771,
   "index": "/log-analysis-dashboard-io/index.html",
   "assetGroups": [
     {
@@ -290,7 +290,7 @@
     "/log-analysis-dashboard-io/hue.8b1818380241e6ac.png": "f81ae627637a684614aa726e206c73ce099a01fd",
     "/log-analysis-dashboard-io/index.html": "67bfcdd28af17063c9e010a1d185448527161237",
     "/log-analysis-dashboard-io/main.959e131e137e5c64.js": "7aa69d97b091c5875745f4a22456a49fd6b40276",
-    "/log-analysis-dashboard-io/manifest.webmanifest": "b263b2c3b45203359cd1356e1c2891da45ed0e0a",
+    "/log-analysis-dashboard-io/manifest.webmanifest": "ebbbfcc6e9d1891fcbb579c4bf323feff4bcd7a1",
     "/log-analysis-dashboard-io/polyfills.897024ab94aa4afd.js": "fbd16b66e8796a68b3d8c62d6d483c520d21bb22",
     "/log-analysis-dashboard-io/primeicons.0112589c5695a9ed.ttf": "ceeb46d594fde5cc507cdf8b70e38e78fe47653c",
     "/log-analysis-dashboard-io/primeicons.943ab24c43224d29.svg": "d3332a45242b8f6edbf3f3c7176a280e7edcd961",
